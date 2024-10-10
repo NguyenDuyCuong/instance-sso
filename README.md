@@ -4,6 +4,7 @@
 
 Our key services include:
 
+-  **OmniUser**: which is a user account with broad or unrestricted access across a system. This type of account is typically used for administrative purposes, allowing the user to perform a wide range of tasks without the limitations imposed on regular user accounts.
 - **Personalized Healthcare**: Tailored health plans and virtual consultations with medical professionals to ensure optimal well-being.
 - **Beauty and Wellness**: Customized beauty treatments and wellness programs designed to meet individual needs.
 - **Customer Support Solutions**: Advanced customer service tools and platforms to enhance client interactions and satisfaction.
